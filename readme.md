@@ -2,7 +2,7 @@
 
 
 ### Command-Line Tools        
-On Windows PCs, the command prompt can be accessed by searching for it in the start menu or by typing `cmd` into the Run window. On a Linux system, you can press `Ctrl + Alt + T` to open the command line.        
+On Windows PCs, the command prompt can be accessed by searching for it in the start menu or by typing `'cmd'` into the Run window. On a Linux system, you can press `'Ctrl + Alt + T'` to open the command line.        
 
 
 The following commands can be entered into the command prompt one at a time to reveal specific information about the network status:       
@@ -19,7 +19,12 @@ The following commands can be entered into the command prompt one at a time to r
 `*` **nmap** — A utility that can scan the entire network for various ports and the services that are running on them. You can use it to monitor remote network connections and get specific information about the network.    
 `*` **route** — A command that enables manual updating of the routing table. It can be used to troubleshoot static routing problems in a network.    
 `*` **arp** — A utility that supports the Address Resolution Protocol (ARP) service of the TCP/IP protocol suite. It lets the network admin view the ARP cache and add or delete cache entries. It can be used to address problems having to do with specific connections between a workstation and a host.     
-`*` **dig** — A Linux or UNIX command-line tool that will display name server information. It can be used to troubleshoot problems in DNS name resolution.            
+`*` **dig** — A Linux or UNIX command-line tool that will display name server information. It can be used to troubleshoot problems in DNS name resolution.                  
+
+
+
+
+
 
 
 
