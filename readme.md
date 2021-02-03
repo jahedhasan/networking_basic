@@ -2,7 +2,7 @@
 
 
 ### Command-Line Tools        
-On Windows PCs, the command prompt can be accessed by searching for it in the start menu or by typing `'cmd'` into the Run window. On a Linux system, you can press `'Ctrl + Alt + T'` to open the command line.        
+>On Windows PCs, the command prompt can be accessed by searching for it in the start menu or by typing `'cmd'` into the Run window. On a Linux system, you can press `'Ctrl + Alt + T'` to open the command line.        
 
 
 The following commands can be entered into the command prompt one at a time to reveal specific information about the network status:       
